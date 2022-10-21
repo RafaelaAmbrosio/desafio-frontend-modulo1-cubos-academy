@@ -1,4 +1,4 @@
-# Desafio Front-end do Mdulo1 da Cubos Academy
+# Desafio Front-end do Modulo 1 da Cubos Academy
 
 ### Status: Concluido
 
