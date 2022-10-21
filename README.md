@@ -1,6 +1,7 @@
 # Desafio Front-end do Modulo 1 da Cubos Academy
 
 ### Status: Concluido
+#### Preview: https://www.youtube.com/watch?v=MV9EbEVDp54&ab_channel=RafaelaAmbrosio
 
 
 ### Tecnologias:
