@@ -1,0 +1,131 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  min-height: 2000px;
+  min-width: 1240px;
+}
+
+h1 {
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 40px;
+  font-weight: bold;
+
+  color: #33323d;
+}
+
+p {
+  margin-top: 28px;
+
+  font-family: 'Public Sans', sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  color: #33323d;
+}
+
+h2 {
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 40px;
+  font-weight: bold;
+
+  color: #33323d;
+}
+
+p span {
+  text-decoration: underline;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 64px;
+  margin-left: 164px;
+  margin-right: 164px;
+  margin-bottom: 54px;
+}
+
+header ul {
+  display: flex;
+  gap: 42px;
+
+  list-style: none;
+}
+
+header ul a {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+
+  color: #33323d;
+}
+
+header ul a:visited {
+  color: #33323d;
+}
+
+.atual {
+  color: #5fb4a2 !important;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  position: absolute;
+  bottom: 0;
+
+  height: 80px;
+  width: 100%;
+
+  padding-left: 164px;
+  padding-right: 164px;
+  margin-top: 200px;
+
+  background-color: #33323d;
+}
+
+.comeco-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .logo {
+  margin-right: 48px;
+}
+
+footer ul {
+  display: flex;
+  list-style: none;
+}
+
+footer .menu {
+  gap: 42px;
+}
+
+footer ul a {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 12px;
+  text-decoration: none;
+
+  color: #ffffff;
+}
+
+footer ul a:visited {
+  color: #ffffff;
+}
+
+.icons {
+  gap: 15px;
+}
+
+.icons li img {
+  cursor: pointer;
+}
