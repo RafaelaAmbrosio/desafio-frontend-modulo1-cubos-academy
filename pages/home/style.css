@@ -7,7 +7,7 @@ body {
   position: relative;
 
   min-height: 850px;
-  min-width: 1110px;
+  min-width: 1440px;
   margin-left: 165px;
   margin-right: 165px;
 
@@ -17,7 +17,7 @@ body {
   background-repeat: no-repeat;
 }
 
-.hero .hero-div {
+.hero .hero-sobre {
   position: absolute;
   bottom: 0;
 
@@ -27,7 +27,7 @@ body {
   background-color: white;
 }
 
-.hero .hero-div p {
+.hero .hero-sobre p {
   padding-top: 40px;
   padding-left: 28px;
   padding-right: 28px;
@@ -40,7 +40,7 @@ body {
   color: #33323d;
 }
 
-.hero .hero-div .botao-sobre {
+.hero .hero-sobre .botao-sobre {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -80,7 +80,7 @@ body {
   text-align: center;
 }
 
-.hero .hero-div .botao-sobre:hover {
+.hero .hero-sobre .botao-sobre:hover {
   background-image: url('../../assets/icons/down-arrows-light.svg');
   background-size: 20px;
   background-position: 14px 15px;
