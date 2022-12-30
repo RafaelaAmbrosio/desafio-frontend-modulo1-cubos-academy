@@ -1,6 +1,7 @@
 # Desafio Front-end do Modulo 1 da Cubos Academy
 
 ### Status: Concluido
+O objetivo desse desafio era replicar o website encontrado em um arquivo do Figma. 
 #### Visitar projeto: https://rafaelaambrosio.github.io/desafio-frontend-modulo1-cubos-academy/
 
 
